@@ -1,0 +1,1 @@
+# square-of-a-given-list
